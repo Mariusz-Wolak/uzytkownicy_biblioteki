@@ -1,0 +1,10 @@
+Andrzej,Nowak,20,7654321,student,099682
+Mateusz,Wapisz,22,7502659,student,117201
+Piotr,Wychowaniec,54,6552964,pracownik,1753
+Pawel,Sienkiewicz,37,1047294,pracownik,3562
+Jan,Kowalski,23,1234567,student,115348
+Marcin,Kurski,42,0915263,pracownik,6027
+Wojciech,Kielecki,58,2682550,pracownik,5722
+Andrzej,Polak,20,3106287,zewnetrzny,dowod
+Waldemar,Debski,25,6396527,zewnetrzny,dowod
+Lukasz,Pater,23,8313260,zewnetrzny,dowod
