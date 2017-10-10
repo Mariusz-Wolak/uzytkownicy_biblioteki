@@ -33,7 +33,7 @@ public class Server {
     		CStudent stu;
     		CPracownik  prac;
     		CUzytkownikZewnetrzny zew;
-			if(status.equals("student")==true)  // if (tekst.equals("END"))
+			if(status.equals("student")==true)  
 			{
 				 
 				stu = new CStudent();	
